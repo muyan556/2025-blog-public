@@ -33,9 +33,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "f2cb7683b55556da",
+			"url": "/images/background/f2cb7683b55556da.jpeg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "f2cb7683b55556da",
 	"socialButtons": [
 		{
 			"id": "github",
@@ -46,9 +50,9 @@
 		},
 		{
 			"id": "juejin",
-			"type": "link",
+			"type": "juejin",
 			"value": "https://muyan.asia",
-			"label": "主站",
+			"label": "我的主站",
 			"order": 2
 		},
 		{
