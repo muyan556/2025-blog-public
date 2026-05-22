@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "文隙",
+		"description": "欢迎来到文隙 (Between Lines) , 一些碎碎念和随手记 .",
+		"username": "慕言556"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -45,26 +45,26 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/muyan556",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
+			"type": "qq",
+			"value": "https://qun.qq.com/universal-share/share?ac=1&authKey=AvJl3xIVjjyd2zRF9C89wyu8%2Bf%2B4eDXLgMiYgJJiiYzPAXm4QDMIsLWLza6%2BonbZ&busi_data=eyJncm91cENvZGUiOiIxMDIyOTc0MTIzIiwidG9rZW4iOiJ1bzUzZTcxSU16VXJMaW9YY04vVkFLYlBCcG5UTHFBOExWSVhQUWRlYkdmN25VcFJ5T1Vqc21YcGhyZHJxRkIzIiwidWluIjoiOTQxNzcyOTM1In0=&data=S3M4PdZKVSjIMVVmcWDFEG3d-5MKQrTF0kZGl6UPvHKC5y5Qbf6duLqCQwlmEcY9Q104lDraX0_QRTNhq9zwnou5tWampxsZ-rpaju6S7Tk&svctype=5&tempid=h5_group_info",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "muyan556@qq.com",
 			"label": "",
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
@@ -73,7 +73,7 @@
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
-		"text": "",
-		"link": ""
+		"text": "皖ICP备2025095811号",
+		"link": "https://beian.miit.gov.cn/"
 	}
 }
